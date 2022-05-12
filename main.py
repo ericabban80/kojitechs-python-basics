@@ -1,2 +1,8 @@
-type (124)
-print (type)
+
+
+import builtins
+from pprint import pprint
+
+
+#pprint(dir(builtins))
+
