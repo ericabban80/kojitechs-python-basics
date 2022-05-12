@@ -4,5 +4,5 @@ import builtins
 from pprint import pprint
 
 
-#pprint(dir(builtins))
+print(dir(builtins))
 
