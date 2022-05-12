@@ -1,8 +1,2 @@
-
-
-import builtins
-from pprint import pprint
-
-
-print(dir(builtins))
-
+num = 1234
+print (type(num))
