@@ -1,11 +1,13 @@
-num = 1234
-print (type(num))
+import builtins
+#from pprint import pprint
+#from time import 
 
-age = 24
-first_name = "Eric"
-last_name = "abban"
-print (f"every {age} years old is {first_name} {last_name}")
 
-age = 20
-name = "John Smith"
-print (f"we check in patient named {name} who is {age} years old")
+#print(dir(builtins))
+
+
+
+brand = "koji"
+cost = 20
+print(cost)
+print(brand)
